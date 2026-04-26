@@ -6,16 +6,16 @@
     <description>Most recent updates to Pod</description>
     <language>en</language>
     <item>
-        <title>Version 1.8</title>
-        <sparkle:version>8</sparkle:version>
-        <sparkle:shortVersionString>1.8</sparkle:shortVersionString>
+        <title>Version 1.8.1</title>
+        <sparkle:version>9</sparkle:version>
+        <sparkle:shortVersionString>1.8.1</sparkle:shortVersionString>
         <sparkle:minimumSystemVersion>12.4</sparkle:minimumSystemVersion>
-        <description><![CDATA[Cmd+Q fix and update channel migration to www.desktopipod.com]]></description>
-        <pubDate>Sun, 26 Apr 2026 20:14:00 +0000</pubDate>
+        <description><![CDATA[DMG installer with drag-to-Applications layout]]></description>
+        <pubDate>Sun, 26 Apr 2026 20:23:07 +0000</pubDate>
         <enclosure
-            url="https://www.desktopipod.com/releases/Pod-1.8.zip"
-            sparkle:edSignature="4tc1NFR+xzC7DZfG8Pt7jyEWUZPhm6QAj9SF54yjQyaQgHBv45pyrCDtJkwHlvmTcpTAXjOQRXyk6zcVy1f4Dg=="
-            length="2139973"
+            url="https://www.desktopipod.com/releases/Pod-1.8.1.zip"
+            sparkle:edSignature="iJrJ1GIbueDwyPw5gDNEmSAaGYSGdGLSbQy8I0nDDbcpEeapMbtZ3z/HS95OLSV9Tm6oD2uB/rlj523J3IxUCQ=="
+            length="2139945"
             type="application/octet-stream" />
     </item>
 </channel>
