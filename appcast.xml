@@ -6,16 +6,16 @@
     <description>Most recent updates to Pod</description>
     <language>en</language>
     <item>
-        <title>Version 1.8.1</title>
-        <sparkle:version>9</sparkle:version>
-        <sparkle:shortVersionString>1.8.1</sparkle:shortVersionString>
+        <title>Version 1.8.2</title>
+        <sparkle:version>10</sparkle:version>
+        <sparkle:shortVersionString>1.8.2</sparkle:shortVersionString>
         <sparkle:minimumSystemVersion>12.4</sparkle:minimumSystemVersion>
-        <description><![CDATA[DMG installer with drag-to-Applications layout]]></description>
-        <pubDate>Sun, 26 Apr 2026 20:23:07 +0000</pubDate>
+        <description><![CDATA[Fix Sparkle update install + bundle Spotify bridge (drops sandbox)]]></description>
+        <pubDate>Tue, 28 Apr 2026 20:19:22 +0000</pubDate>
         <enclosure
-            url="https://www.desktopipod.com/releases/Pod-1.8.1.zip"
-            sparkle:edSignature="iJrJ1GIbueDwyPw5gDNEmSAaGYSGdGLSbQy8I0nDDbcpEeapMbtZ3z/HS95OLSV9Tm6oD2uB/rlj523J3IxUCQ=="
-            length="2139945"
+            url="https://www.desktopipod.com/releases/Pod-1.8.2.zip"
+            sparkle:edSignature="85JWcwBqm2fE/Ls2t3iMf+e5XEtW+LDv9CTnZCm1DIpJkmJCfkEJqfFwDse51cq2BBo9lChQp9UURLjTMGUjCw=="
+            length="6622967"
             type="application/octet-stream" />
     </item>
 </channel>
